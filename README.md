@@ -18,9 +18,21 @@ A database schema is the skeleton structure that represents the logical view of 
 An entity is some unit of data that can be classified and have stated relationships to other entities
 ```
 - Field
+```
+A field is the basic unit of data entry in a record.
+```
 - Record
+```
+Records are composed of fields, each of which contains one item of information.
+```
 - Primary key
+```
+A primary key is a special relational database table column (or combination of columns) designated to uniquely identify all table records. 
+```
 - Foreign key
+```
+In the context of relational databases, a foreign key is a field (or collection of fields) in one table that uniquely identifies a row of another table. In simpler words, the foreign key is defined in a second table, but it refers to the primary key in the first table.
+```
 
 ## Data Types
 [List of Data Types for PostgreSQL](http://www.techonthenet.com/postgresql/datatypes.php)
@@ -56,3 +68,9 @@ Choose a scenario with data and create an ERD.
 * Crime, location, severity, victim
 * Houses, location, price, sqft, days on market
 * Symptoms, age, smoker, drinker, gender, disease or ailment
+
+
+
+
+
+
