@@ -1,9 +1,32 @@
 # data-modeling
 
-Standard
+## Standards Supported:
 - Design and implement schemas
-Objectives
-- Model database schemas using ERDs
+
+## Objectives:
+- Define schema, entity, field, record, primary key, and foreign key
+- List five data types
+- Create ERDs to describe models, their fields, and relationships
+
+
+
+## Definitions
+- Schema
+- Entity
+- Field
+- Record
+- Primary key
+- Foreign key
+
+## Data Types
+[List of Data Types for PostgreSQL](http://www.techonthenet.com/postgresql/datatypes.php)
+
+
+
+
+
+
+
 
 ## Database examples:
 
@@ -87,16 +110,6 @@ Objectives
 * Why not join students directly to instructors? WHy are many-to-many relationships bad?
 ​
 
-## Join Tables (AKA Associative Tables)
-​
-* Help resolve a many-to-many relationship
-* Naming convention - combine in alphabetical order
-​
-
-## Lookup Tables
-​
-* A lookup table helps you create options or precalculated info
-​
 
 ## Exercise: Actors and Films (with lookup and join tables)
 ​
