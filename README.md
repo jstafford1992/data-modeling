@@ -6,20 +6,6 @@ Objectives
 - Model database schemas using ERDs
 - Diagram cardinality using a Crow's foot
 
-## class flow
-  * cj and i demo
-  * break down of board
-    * table and columns
-    * keys and types
-    * crow’s foot
-  * we do - pet shelter
-  * you do practice -tournament (fantasy) bracket && weather research
-    * one is the client describing the data to be stored
-    * the other is creating the db schema
-    * lucid chart or draw io
-    * have a few people show their work
-  * exercise challenge
-
 ## Database examples:
 
 * tournament site
