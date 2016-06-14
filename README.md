@@ -4,7 +4,6 @@ Standard
 - Design and implement schemas
 Objectives
 - Model database schemas using ERDs
-- Diagram cardinality using a Crow's foot
 
 ## Database examples:
 
