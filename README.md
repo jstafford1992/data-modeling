@@ -8,11 +8,15 @@
 - List five data types
 - Create ERDs to describe models, their fields, and relationships
 
-
-
 ## Definitions
 - Schema
+```
+A database schema is the skeleton structure that represents the logical view of the entire database. It defines how the data is organized and how the relations among them are associated. It formulates all the constraints that are to be applied on the data.
+```
 - Entity
+```
+An entity is some unit of data that can be classified and have stated relationships to other entities
+```
 - Field
 - Record
 - Primary key
@@ -21,14 +25,7 @@
 ## Data Types
 [List of Data Types for PostgreSQL](http://www.techonthenet.com/postgresql/datatypes.php)
 
-
-
-
-
-
-
-
-## Database examples:
+## Exercises:
 
 * tournament site
   * teams
